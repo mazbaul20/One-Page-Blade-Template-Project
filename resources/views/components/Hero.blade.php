@@ -5,8 +5,9 @@
         <p class="lead text-muted mb-5">Build a well-presented brand that everyone will love. Take care to develop resources continually and integrity them with previous projects.</p>
         <div class="d-flex flex-wrap"><a class="btn btn-primary me-2 mb-2 mb-sm-0" href="#">Track your performance</a><a class="btn btn-outline-secondary mb-2 mb-sm-0" href="#">Learn more</a></div>
       </div>
-      <div class="col-12 col-lg-6 offset-lg-1">
-        <img class="img-fluid" src="bootstrap5-plain-assets/images/blue-400-square.png" alt=""></div>
+        <div class="col-12 col-lg-6 offset-lg-1">
+            <img class="img-fluid" src="{{asset('bootstrap5-plain-assets/images/blue-400-square.png')}}" alt="">
+        </div>
     </div>
     <div class="text-center d-none d-lg-block">
       <button class="btn border rounded-circle" style="width: 56px;height: 56px">

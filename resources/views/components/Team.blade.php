@@ -11,7 +11,7 @@
         <div class="col-12 col-md-6 col-lg-4 mb-4">
           <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
             <div class="text-center">
-              <img class="mx-auto mb-5 img-fluid" src="bootstrap5-plain-assets/images/blue-400-avatar.png" alt="" style="width: 80px;height: 80px">
+              <img class="mx-auto mb-5 img-fluid" src="{{asset('bootstrap5-plain-assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
               <h4 class="fw-bold">Danny Bailey</h4>
               <p class="text-muted">CEO &amp; Founder</p>
             </div>
@@ -20,7 +20,7 @@
         <div class="col-12 col-md-6 col-lg-4 mb-4">
           <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
             <div class="text-center">
-              <img class="mx-auto mb-5 img-fluid" src="bootstrap5-plain-assets/images/blue-400-avatar.png" alt="" style="width: 80px;height: 80px">
+              <img class="mx-auto mb-5 img-fluid" src="{{asset('bootstrap5-plain-assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
               <h4 class="fw-bold">Danny Bailey</h4>
               <p class="text-muted">CEO &amp; Founder</p>
             </div>
@@ -29,7 +29,7 @@
         <div class="col-12 col-md-6 col-lg-4 mb-4">
           <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
             <div class="text-center">
-              <img class="mx-auto mb-5 img-fluid" src="bootstrap5-plain-assets/images/blue-400-avatar.png" alt="" style="width: 80px;height: 80px">
+              <img class="mx-auto mb-5 img-fluid" src="{{asset('bootstrap5-plain-assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
               <h4 class="fw-bold">Danny Bailey</h4>
               <p class="text-muted">CEO &amp; Founder</p>
             </div>
@@ -38,7 +38,7 @@
         <div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
           <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
             <div class="text-center">
-              <img class="mx-auto mb-5 img-fluid" src="bootstrap5-plain-assets/images/blue-400-avatar.png" alt="" style="width: 80px;height: 80px">
+              <img class="mx-auto mb-5 img-fluid" src="{{asset('bootstrap5-plain-assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
               <h4 class="fw-bold">Danny Bailey</h4>
               <p class="text-muted">CEO &amp; Founder</p>
             </div>
@@ -47,7 +47,7 @@
         <div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-0">
           <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
             <div class="text-center">
-              <img class="mx-auto mb-5 img-fluid" src="bootstrap5-plain-assets/images/blue-400-avatar.png" alt="" style="width: 80px;height: 80px">
+              <img class="mx-auto mb-5 img-fluid" src="{{asset('bootstrap5-plain-assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
               <h4 class="fw-bold">Danny Bailey</h4>
               <p class="text-muted">CEO &amp; Founder</p>
             </div>
@@ -56,7 +56,7 @@
         <div class="col-12 col-md-6 col-lg-4">
           <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
             <div class="text-center">
-              <img class="mx-auto mb-5 img-fluid" src="bootstrap5-plain-assets/images/blue-400-avatar.png" alt="" style="width: 80px;height: 80px">
+              <img class="mx-auto mb-5 img-fluid" src="{{asset('bootstrap5-plain-assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
               <h4 class="fw-bold">Danny Bailey</h4>
               <p class="text-muted">CEO &amp; Founder</p>
             </div>
